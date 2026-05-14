@@ -1,6 +1,6 @@
 # Template Perencanaan Proyek Akhir (Final Project Phase 1)
 
-Nama Siswa: Aisell
+Nama Siswa: uwais
 Nama Proyek: Aisell Coffee Shop (Landing Page Bisnis)
 URL Live (GitHub Pages/Netlify): [Isi Nanti Setelah Deploy]
 
